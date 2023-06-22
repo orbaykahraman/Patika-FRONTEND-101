@@ -30,3 +30,7 @@ body {
 head {
     background-color: bisque;
 }
+
+.text-color {
+    color: brown;
+}
