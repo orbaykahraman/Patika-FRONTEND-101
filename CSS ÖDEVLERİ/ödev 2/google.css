@@ -1,0 +1,56 @@
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div1{
+    display: block;
+    margin: auto;
+
+    padding: 5px ;
+    background-color: rgb(237, 231, 231);
+    text-align: center;
+  }
+    .arama-motoru {
+        width: 500px;
+}
+
+.youre-mail {
+        width: 200px;
+}
+
+
+.div2{
+        width: 33%;
+        display: block;
+        background-color: rgb(143, 223, 196);
+        margin: auto ;
+        text-align: center;
+        float: left;
+        height: 100px;
+}
+
+
+
+.div3{
+        width: 33%;
+        display: block;
+        background-color: rgb(65, 147, 120);
+        margin: auto ;
+        text-align: center; 
+        float: left;
+        height: 100px;
+}
+
+
+.div4{
+        height: 100px;
+        width: 33%;
+        display: block;
+        background-color: rgb(53, 216, 162);
+        margin: auto ;
+        text-align: center; 
+        float: left;
+
+}
