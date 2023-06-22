@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: rgba(0,0,0,.87);
+    
+}
+
+.navbar {
+    word-spacing: 15px;
+    display: flex;
+    float: right;
+    margin: 13px 15px;
+    font-family:Arial,sans-serif;
+    font-size: 13px
+    
+}    
+
+ .button  {
+    word-spacing: 3px;
+    background-color: #2e73e4;
+    color: white;
+    padding: 9px 23px;
+    border-radius: 4px;
+    transition: color .25s ease ;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.button:hover  {
+    background-color: #2d5dac;
+    text-decoration: none;
+}
+
+.menu:hover {
+    background-color: #94989e; 
+    opacity: 0.7;
+    border-radius:10px;
+
+}
+
+.mid .google {
+    text-align: center;
+    margin: 210px;
+    
+}
+
+
+.orta {
+    margin-left: 375px ;
+    padding-left: 537px;
+    height: 40px;
+    width:400px;
+    border-radius: 23px;
+    border: 1px solid #dfe1e5;
+}
+
+.orta:hover {
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+}
+
+.arama {
+    display: flex;
+    align-items: center;
+    margin-left: -522px;
+    margin-top: -26px;
+}
+
+.klavye {
+    display: flex;
+    margin:-19px 0 0 -70px ;
+}
+
+.gorsel-ile-arama {
+    display: flex;
+    margin:-20px 0 0 -35px ;
+}
+
+.inputı {
+    margin-left: -622px;
+    margin-top: 4px;
+    height:30px ;
+    border: white;
+    line-height: 0;
+}
+
+.inputı:focus {
+    border: 3px solid white; 
+    outline:none;
+}
+
+.buton {
+    background-color: #f8f9fa;
+    border: #f8f9fa;
+    font-size: 15px;
+    height: 30px;
+    padding: 0 15px;
+    margin: 0 4px;
+    border-radius: 4px;
+    font-family: arial,sans-serif;
+    color: #3c4043;
+    cursor: pointer;
+}
+
+.buton:hover {
+    background-color: #dfe1e5;
+}
+
+.bosluk{
+    width: 1250px;
+    height: 150px;
+}
+
+.feater {
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    color: #70757a;
+    background-color: #f2f2f2;
+    width: 1695px;
+    height: 88px;
+    justify-content: space-around;
+    
+}
+
+.bilgi {
+    color: #70757a;
+    display: flex;
+    background-color: #f2f2f2;
+    padding: 11px 40px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    font-family: arial,sans-serif;
+}
+
+.bilgi2 {
+    color: #70757a;
+    word-spacing: 15px;
+    background-color: #f2f2f2;
+    margin: 15px;
+    padding: 0 20px;
+    font-family: arial,sans-serif;
+}
+
+.b2 {
+    color: #70757a;
+    white-space: nowrap;
+    text-align: center;
+    padding-left: 350px;
+    word-spacing: 3px;
+    font-family: arial,sans-serif;
+}
+
+.anç {
+    color: #70757a;
+    word-spacing: 3px;
+    padding-left: 20px;
+    font-family: arial,sans-serif;
+}
+
+.bilgi3 {
+    color: #70757a;
+    float: right;
+    word-spacing: 17px;
+    font-family: arial,sans-serif;
+}
+    
+
+
+
+
+
+
